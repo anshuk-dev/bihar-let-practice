@@ -1,5 +1,8 @@
 # Bihar LET Practice Set — 3000 Core LIS Questions & Chronology
 
+🌐 **Live Web App (Mobile & Desktop):** [https://anshuk-dev.github.io/bihar-let-practice/](https://anshuk-dev.github.io/bihar-let-practice/)  
+📖 **4-Day Focus Revision • All 4 Options Explained (Correct + 3 Wrong) • Year Chronology**
+
 A distraction-free, mobile and desktop responsive web application built for rapid 4-day preparation and mastery of the **Bihar Library Eligibility Test (LET / SLET)** syllabus — focused strictly on **Core Library & Information Science (LIS)** and **LIS-related Computer/IT & Information Science**.
 
 ## Key Features
